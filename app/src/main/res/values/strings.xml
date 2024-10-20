@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="art1">Art1</string>
+    <string name="art1_year">2024</string>
+    <string name="art4">Art4</string>
+    <string name="art4_year">2023</string>
+    <string name="art2">Art2</string>
+    <string name="art2_year">2022</string>
+    <string name="art3">Art3</string>
+    <string name="art3_year">2021</string>
+</resources>
